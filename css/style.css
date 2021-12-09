@@ -1,0 +1,61 @@
+header{
+    height: 100px;
+    background-color: brown;
+    text-align: center;
+    color: white;
+}
+.path{
+    height: 200px;
+    background-color: yellowgreen;
+    text-align: center;
+    color: white;
+}
+.content{
+    overflow: hidden;
+}
+.content{
+    height: 200px;
+    background-color: cornflowerblue;
+    text-align: center;
+    color: white;
+}
+.box_one{
+    width: 25%;
+    height: 200px;
+    background-color: yellow;
+    text-align: center;
+    color: white;
+    float: left;
+}
+.box_two{
+    width: 25%;
+    height: 200px;
+    background-color: green;
+    text-align: center;
+    color: white;
+    float: left;
+}
+.box_three{
+    width: 25%;
+    height: 200px;
+    background-color: blue;
+    text-align: center;
+    color: white;
+    float: left;
+}
+.box_four{
+    width: 25%;
+    height: 200px;
+    background-color: greenyellow;
+    text-align: center;
+    color: white;
+    float: right;
+}
+footer{
+    background-color: black;
+    height: 500px;
+    text-align: center;
+    color: white;
+}
+
+
